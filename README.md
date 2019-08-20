@@ -17,3 +17,8 @@ Clone :
 For Tutorial 
     W3schools.com
     https://www.w3schools.com/html/html_intro.asp
+
+After changes in this folder
+    you have to enter the message then click on right button (Commitin your code)
+    After commit we need to pull 
+    Last we have to push
